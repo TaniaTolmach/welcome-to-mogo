@@ -1,0 +1,73 @@
+.about {
+    width: 1510px;
+    height: 849px;
+    background-color: #E5E5E5;  
+}
+.what--we--do {
+    width: 1170px;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 42px;
+    margin-left: 168px;
+    font-family: Kaushan Script;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 44px;
+    line-height: 100%;
+    color: #2D3033;
+    font-weight: 400;
+
+}
+.story--about {
+    width: 1170px;
+    height: 81px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 40px;
+    margin-left: 170px;
+    font-family: Raleway;
+    font-style: Black;
+    font-size: 36px;
+    line-height: 42px;
+    line-height: 100%;
+    color: #2D3033;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.devider {
+    width: 170px;
+    border: 2px solid #F38281;
+    background-color: #F38281;
+    margin-left: 671px;
+    margin-top: 24px;
+
+}
+.about--us--info {
+    width: 1170px;
+    height: 118px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 40px;
+    margin-left: 170px;
+    font-family: Raleway;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 21;
+    line-height: 100%;
+    color:  #000000;
+    font-weight: 400;
+}
+.img--info {
+   padding-top: 58px;
+    display: flex;
+    flex-direction: row;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    }
+img:not(:first-child) {
+    margin-left: 30px;
+}
+    

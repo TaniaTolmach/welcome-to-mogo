@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mogo {
+    width: 1510px;
+    height: 1024px;
+    background-image:url(./Rectangle\ 2.jpg);
+   
+       }
+
+   
+.navigation {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+
+}
+.logo {
+    width: 270px;
+    height: 100px;
+    margin-left: 170px;
+}
+.logo--form {
+    color: #FFFFFF;
+    width: 97.64px;
+    height: 26.1px;
+    padding-top: 42px;
+    font-weight: 800;
+    font-family: Montserrat;
+    font-size: 40px;
+}
+.navigation-info {
+    width: 670px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 230px;
+    margin-top: 15px;
+}
+.nav--info--about {
+    color:#F4BF87;
+    font-family: Raleway;
+    font-style: SemiBold;
+    font-size: 14px;
+    line-height: 16px;
+    line-height: 100%;
+    text-transform: uppercase;
+}
+.nav--info {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-style: SemiBold;
+    font-size: 14px;
+    line-height: 16px;
+    line-height: 100%;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.title {
+    width: 100%;
+    height: 839px;
+
+}
+.title--about {
+    width: 1170px;
+    height: 80px;
+    margin-left: 170px;
+    margin-top: 77px;
+    font-family: Kaushan Script;
+    font-style: Regular;
+    font-size: 64px;
+    line-height: 93px;
+    line-height: 100%;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-align: center;
+}
+.title--main {
+    width: 1170px;
+   
+    margin-left: 170px;
+    margin-right: 170px;
+    font-family: Montserrat;
+    font-style: Bold;
+    font-size: 144px;
+    line-height: 176px;
+    line-height: 100%;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    vertical-align: middle;
+  text-transform: uppercase;
+
+}
+.title--devider {
+    width: 170px;
+    margin: 44px auto;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}    
+.title--button {
+    width: 369px;
+    height: 77.58px;
+    border: 4px solid #FFFFFF;
+    font-family: Raleway;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 28px;
+    line-height: 100%;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-top: 74.42px;
+    margin-left: 571px;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.1);
+  
+}
